@@ -1,5 +1,5 @@
 # Salut !
-
+[LinkedIn](https://www.linkedin.com/in/maxime-ribes/)
 ## Mon parcours
 
 - 🎓 J'ai eu un Bac S option Informatique et Sciences du numérique
